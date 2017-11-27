@@ -1,1 +1,1 @@
-<img src=kugel.gif></img>
+<img src=kugel.gif>
