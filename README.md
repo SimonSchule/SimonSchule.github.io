@@ -1,1 +1,2 @@
-<img src="./kugel.gif">
+<img src="./kugel.gif"><br>
+<img src="./putin.jpg"><br>
